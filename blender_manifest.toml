@@ -72,5 +72,6 @@ paths_exclude_pattern = [
   "/*.zip",
   "/.gitignore",
   "/README.md",
-  "/Build.bat",
+  "/*.bat",
+  "/*.png",
 ]
